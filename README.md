@@ -1,24 +1,26 @@
 # FitPulse
 
+Live Demo: [FitPulse Landing Page](https://lovishjaswal.github.io/FitPulse-Landing_Page_Project/?utm_source=chatgpt.com)
+
 FitPulse is a fitness-themed landing page project built using HTML and CSS.
 
-The project was created while learning frontend development fundamentals and experimenting with layouts, styling, animations, sections, and modern UI design concepts.
+This project was created while learning frontend development fundamentals and experimenting with layouts, styling, animations, sections, and modern UI design concepts.
 
 ---
 
 ## Features
 
-- Modern landing page design
+- Modern fitness landing page UI
 - Hero section
 - Navigation bar
 - Workout and fitness sections
-- Progress & rewards section
+- Rewards and progress section
 - Community challenges section
-- FAQ layout
-- Footer section
+- FAQ section
+- Footer layout
 - Hover effects and transitions
-- Simple animations
-- Gradient-based UI styling
+- Basic animations
+- Gradient-based styling
 
 ---
 
@@ -31,14 +33,14 @@ The project was created while learning frontend development fundamentals and exp
 
 ## Purpose of This Project
 
-The goal of this project was to practice frontend fundamentals by building a product-style landing page from scratch instead of creating isolated UI components.
+The main goal of this project was to practice frontend development by building a complete product-style landing page instead of isolated components.
 
 While building this project, I explored:
 
 - Flexbox layouts
 - Positioning
-- Hover interactions
 - CSS transitions
+- Hover interactions
 - Basic animations
 - Section structuring
 - UI composition
@@ -48,19 +50,19 @@ While building this project, I explored:
 
 ## Project Status
 
-This is a frontend-only project and currently focuses on UI design and layout structure.
+This is currently a frontend-only project focused on layout structure and UI design.
 
-Future improvements may include:
+Possible future improvements:
 
 - Better responsiveness
 - Dark mode functionality
 - Backend integration
-- Authentication
-- Workout tracking features
+- Authentication system
+- Fitness tracking features
 - Mobile optimization
 
 ---
 
 ## Learning Outcome
 
-This project helped me understand how real landing pages are structured and how different frontend sections connect together visually to create a complete user experience.
+This project helped me understand how real landing pages are structured and how different frontend sections work together to create a complete user experience.
